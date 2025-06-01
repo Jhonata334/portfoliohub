@@ -75,7 +75,7 @@ PortfolioHUB
 - 📅 [Google Calendar do Projeto](https://acesse.one/YF6YO)
 - 🧑‍💻 [Repositório no GitHub](https://github.com/Jhonata334/portfoliohub)
 - 🎥 [Apresentação em vídeo (YouTube)](https://youtu.be/OqE88SyWo94)
-- 📄 [Plano de Implementação em PDF](https://drive.google.com/file/d/1LHbOE_uaw4PbIdiK-4gOx94iIQPLJGLU/view?usp=sharing)
+- 📄 [Plano de Implementação em PDF](https://drive.google.com/file/d/1yDGkmYowwfDCM6NytExT_FAIFu-SATQi/view?usp=sharing)
 
 ---
 
