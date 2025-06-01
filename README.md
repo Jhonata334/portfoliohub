@@ -56,14 +56,13 @@ Projeto de implantação de uma plataforma para centralização e gerenciamento 
 
 ## 📂 Estrutura de Pastas
 
-PortfolioHUB/
-├── Projetos Recebidos/
-│ ├── Nome do Projeto 1/
-│ ├── Nome do Projeto 2/
-├── Documentação/
-│ └── Plano de implantação.pdf
-├── Imagens/
-├── Versões/
+PortfolioHUB
+  - Projetos Recebidos
+      - 📁 Envio de Projeto – PortfolioHUB  (respostas)
+  - Documentação
+      - Plano de implantação.pdf
+  - Imagens
+  - Versões
 
 
 ---
