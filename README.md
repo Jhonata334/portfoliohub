@@ -74,7 +74,7 @@ PortfolioHUB
 - 📁 [Google Drive - estrutura de pastas](https://drive.google.com/drive/folders/1rFkI2ARn-Sr6ruSiqczIE15FyxCxGZS_?usp=sharing)
 - 📅 [Google Calendar do Projeto](https://acesse.one/YF6YO)
 - 🎥 [Apresentação em vídeo (YouTube)](COLE_O_LINK_AQUI)
-- 📄 [Plano de Implementação em PDF](https://drive.google.com/file/d/1phHrkp9okYWSUR4CJCK1E0vY9JtuJId1/view?usp=sharing)
+- 📄 [Plano de Implementação em PDF](https://drive.google.com/file/d/1LHbOE_uaw4PbIdiK-4gOx94iIQPLJGLU/view?usp=sharing)
 
 ---
 
